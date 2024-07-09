@@ -1,0 +1,16 @@
+
+routes continue
+
+map 
+filter 
+
+useParams
+hook useState
+form handling
+spread operator
+
+api calling
+
+built in coponents
+  universe.io
+  react netlify

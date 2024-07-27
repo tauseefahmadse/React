@@ -1,0 +1,41 @@
+
+
+http://fakestore.com
+
+http://localhost:8000/api/products
+
+Store
+
+useEffect()    product ------ component within 
+
+backend
+/controller
+/models 
+/routes
+
+
+/redux 
+    /slices
+    /action
+
+    store.js
+    products orders users auths payments
+        @reduxjs/toolkit
+                    combinwReducer, configure, createslices
+          connect 
+          app.js 
+
+          react-dedux
+              useDispatch, useSelector
+// function
+    reducer
+    action
+// data
+    store
+      state
+
+// actions 
+      dispatch
+      selector
+
+      api - data 

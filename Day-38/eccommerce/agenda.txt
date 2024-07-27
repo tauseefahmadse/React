@@ -1,0 +1,45 @@
+21 July 2024
+Global State management 
+--redux
+-- redux toolkit
+
+-- Context API (hook: useContext)
+  state ---> compnent
+
+			store --> App.js 
+					states -->
+
+					product 
+					orders 
+					carts 
+					payment 
+					admin 
+
+
+							Store     States 
+centralized bank        Money 
+
+teller /manger  ----> reducer
+
+customer (dispatch) action 
+dispatch - action --100$ deposit  paylod --> (backend data)
+teller - reducer --> access Money validate 
+
+dispatcher
+action -- api-- fetch 
+
+browser -- database localstorage - api
+
+login bilal@fmail.com profile image 
+page browser store -- localstorage
+
+npm init 
+npm i express
+express()
+
+npm i -d nodemon
+Set-ExecutionPolicy Unrestricted
+ 
+
+
+npm i morgan

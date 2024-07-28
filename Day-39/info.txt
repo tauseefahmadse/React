@@ -1,1 +1,13 @@
 21 July 2024
+
+Postman
+
+Create new environment type any name like "ecommerce90"
+in variable column write type any name like "E90"
+set initial value to your api url "http://localhost:8000/api/v1"
+
+click on collections select your environment from dropdown "ecommerce90" 
+and now you can access your variable "E90" by just typing curly brace
+
+and finally run your server and start test your api's in postman
+ 
